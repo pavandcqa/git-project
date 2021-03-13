@@ -1,1 +1,1 @@
-verifysearch
+verifySearchWithProductName
